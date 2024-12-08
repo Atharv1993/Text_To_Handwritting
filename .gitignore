@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Flask cache files
+instance/
+*.pyc
+*.pyo
+*.pyd
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Postman local files
+postman/
+
+# Uploaded files (if applicable)
+uploads/
