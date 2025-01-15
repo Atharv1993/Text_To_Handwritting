@@ -33,3 +33,20 @@ postman/
 
 # Uploaded files (if applicable)
 uploads/
+
+# Output folder
+output/
+
+# Node.js (React) specific
+/node_modules
+/build
+/.env
+/npm-debug.log
+/yarn-error.log
+/.pnp
+.pnp.js
+/.pnp.cjs
+/.pnp.mjs
+
+# React production build folder
+/build
