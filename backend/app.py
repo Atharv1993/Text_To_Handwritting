@@ -65,7 +65,6 @@ def extract_text_from_word(file_path):
 
 
 #-Generate a Handwritten Document ---------------------------------------------------------------------------------------------------------------
-# Path to the handwriting font
 HANDWRITING_FONT = r'D:\pjts\HandWriting\HandWriting_Font\QEDavidReid.ttf'
 
 # Endpoint to generate handwritten image
